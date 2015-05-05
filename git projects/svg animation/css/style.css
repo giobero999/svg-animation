@@ -1,0 +1,76 @@
+body{
+    width: 980px;
+    height: 700px;
+    margin: 0 auto;
+    background: #e2e2e2;
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+    color:#4fa236
+}
+
+
+
+.screen {
+ fill: #22282F;
+
+}
+
+  .steve {
+    fill: #666;
+  }
+
+.button {
+ fill: #22282F;
+ transition: all 0.5s;
+}
+
+ .steve{
+    fill: #22282F;
+  }
+
+  .iMac {
+    fill: #CCC;
+  }
+
+.button-mark {
+ fill: none;
+  stroke: #E9F0F5;
+
+}
+
+  .iMac {
+    fill: #666;
+  }
+  .steve {
+    fill: #666;
+    stroke-width: 0;
+  }
+
+
+
+.svg-img{
+    display: block;
+}
+
+
+#Layer_1, #Layer_2{
+    text-align: center;
+    width: 400px;   
+    transition: all .9s;
+}
+
+
+
+#Layer_2{
+    opacity: 0;
+}
+
+
+
+
+
+
+
